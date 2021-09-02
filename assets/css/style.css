@@ -1,0 +1,38 @@
+body{
+  margin: 0px;
+}
+.section1{
+  background-image: url(./../images/background-image.jpg);
+  background-size: cover;
+  background-position: center;
+  /* align-items: center; */
+  text-align: center;
+  height: 100vh;
+  display: block;
+}
+.button{
+  font-size: 18px;
+  color: #926239;
+  border: 1px solid #926239;
+  padding: 10px 20px;
+  border-radius: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+}
+h1{
+  color: #926239;
+  font-size: 50px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.2;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.header-text{
+  color: #926239;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+}
