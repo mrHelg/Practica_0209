@@ -23,7 +23,7 @@ body{
   overflow: hidden;
   text-overflow: ellipsis;
   text-align: center;
-  text-
+  text-decoration: none;
 }
 h1{
   color: #926239;
@@ -39,4 +39,12 @@ h1{
   color: #926239;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   text-align: center;
+}
+.inline-block {
+  display: inline-block;
+  width: 33.33%;
+  vertical-align: top;
+  min-height: 200px;
+  text-align: justify;
+  padding: 5px;
 }
